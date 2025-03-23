@@ -1,2 +1,2 @@
 # Mob-Monitoring-AI-base-project-Flutter-Sql-Flask
-Feel free to contact me if any query
+I developed a mobile application using Flutter for the frontend and Flask for the backend. This application provides a solution for monitoring a mob through aerial mob monitoring. It utilizes computer vision to estimate the size of the mob at different locations. The app includes various screens and integrates Google Maps in Flutter. The backend, built with Flask, provides APIs that support the app. For crowd estimation, I used the YOLOv8 model to count the estimated number of people in each location.
